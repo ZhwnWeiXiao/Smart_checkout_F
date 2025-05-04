@@ -1,5 +1,3 @@
-以下是 `README.md` 的完整内容，请复制到你项目根目录下新建的 `README.md` 文件中：
-
 ````markdown
 # Smart Checkout 系統
 
